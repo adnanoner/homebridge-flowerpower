@@ -22,7 +22,7 @@
     "async": "^1.5.1",
     "debug": "^2.2.0",
     "flower-power": ">=0.3.0",
-    "flower-power-api": "^1.4.0",
+    "flower-power-api": "^1.4.2",
     "node-flower-bridge": "^1.8.6",
     "promise": "^7.0.4"
   }
